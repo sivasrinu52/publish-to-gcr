@@ -1,0 +1,2 @@
+# publish-to-gcr
+githubaction
